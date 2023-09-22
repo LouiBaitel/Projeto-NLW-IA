@@ -1,0 +1,3 @@
+Estilizações e componentes prontos:https://www.radix-ui.com
+Estilizações em css no html atravez de classes: https://tailwindcss.com
+Componentes estilizados utilizando o tailwindcss e os componentes do radix: https://ui.shadcn.com
